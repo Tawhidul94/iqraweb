@@ -111,7 +111,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
-  background: currentColor;
+  background: white;
 }
 
 #header.header-scrolled,
@@ -134,7 +134,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 48px;
 }
 
 /*--------------------------------------------------------------
@@ -167,7 +167,7 @@ h6 {
   padding: 10px 0 10px 30px;
   font-size: 15px;
   font-weight: 500;
-  color: #fff;
+  color: black;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -183,7 +183,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #47b2e4;
+  color: black;
 }
 
 .navbar .getstarted,
